@@ -1,0 +1,7 @@
+*~
+.venv/
+data/*.csv
+data/*.txt
+data/*.dict
+models/*.tfidf
+*.ipynb_checkpoints
