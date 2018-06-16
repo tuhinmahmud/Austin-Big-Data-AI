@@ -1,0 +1,9 @@
+{
+    "training_set_name": "train_part",
+    "validation_set_name": "valid_part",
+    "data_path": "data/category_segments",
+    "stopwords_path": "data/stopwords.txt",
+    "lsa_model_path": "models/lsa",
+    "model_path": "models/lsi.pickle",
+    "prediction_path": "predictions/lsi.csv"
+}
